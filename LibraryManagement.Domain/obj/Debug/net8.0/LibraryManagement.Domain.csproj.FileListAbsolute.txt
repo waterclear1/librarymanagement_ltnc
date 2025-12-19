@@ -1,0 +1,24 @@
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+E:\Zalo\libary management\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.AssemblyReference.cache
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+E:\Zalo\libary management\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll

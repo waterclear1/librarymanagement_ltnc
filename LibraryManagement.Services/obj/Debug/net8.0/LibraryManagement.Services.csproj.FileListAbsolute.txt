@@ -1,0 +1,34 @@
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfo.cs
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.AssemblyReference.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Data.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Data.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryM.9720B2D6.Up2Date
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement.Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Data.dll
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Data.pdb
+E:\Zalo\libary management\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.AssemblyReference.cache
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfoInputs.cache
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfo.cs
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.CoreCompileInputs.cache
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryM.9720B2D6.Up2Date
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+E:\Zalo\libary management\LibraryManagement.Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll

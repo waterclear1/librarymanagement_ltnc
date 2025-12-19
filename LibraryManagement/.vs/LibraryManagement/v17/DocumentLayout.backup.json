@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\migrations\\20251205082540_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\librarymanagement.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmborrow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmborrow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\librarymanagement.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:librarymanagement.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\forms\\frmreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmreaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmimports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmimports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement\\forms\\frmreaders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42182CD-B85C-4003-8CD5-4AB70A0C25C9}|LibraryManagement.WinForms.csproj|solutionrelative:forms\\frmreaders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965AAAF-0FE8-4A92-88A3-7771A0ADCEB5}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.data\\librarymanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4DDDBB-36CC-43CB-933E-6B6564574D1F}|..\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.domain\\entities\\bookimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\implementations\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\implementations\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\implementations\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\interfaces\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\interfaces\\ireaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA4619-FA2D-4ED7-A96B-4BDC62ABDD54}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\librarymanagement.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251205082540_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Migrations\\20251205082540_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Migrations\\20251205082540_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Migrations\\20251205082540_InitialCreate.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Migrations\\20251205082540_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:25:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\LibraryContext.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\LibraryContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:20:33.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BorrowRecord.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:16:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryManagement.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T18:09:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:38:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBooks.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:32:02.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBorrow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBorrow.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmBorrow.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:10:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:22:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:22:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:14:46.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBorrow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBorrow.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmBorrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:32:27.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmImports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmImports.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmImports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:32:38.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBorrow.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBorrow.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBorrow.cs",
+              "RelativeToolTip": "Forms\\FrmBorrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:07:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:06:29.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:36:41.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmImports.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmImports.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.cs",
+              "RelativeToolTip": "Forms\\FrmImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:57:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryManagement.WinForms.csproj",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\LibraryManagement.WinForms.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.WinForms.csproj",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\LibraryManagement.WinForms.csproj",
+              "RelativeToolTip": "LibraryManagement.WinForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T17:28:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "Forms\\FrmMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:51:08.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:31:47.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmReaders.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReaders.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.cs",
+              "RelativeToolTip": "Forms\\FrmReaders.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:54:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmReaders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReaders.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmReaders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:32:15.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:50:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmBooks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBooks.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmBooks.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:10:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBooks.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmBooks.cs",
+              "RelativeToolTip": "Forms\\FrmBooks.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:51:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmImports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmImports.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmImports.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmImports.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:10:41.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:10:47.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmMain.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:10:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmReaders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmReaders.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement\\Forms\\FrmReaders.Designer.cs",
+              "RelativeToolTip": "Forms\\FrmReaders.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:11:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:21:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:21:56.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:16:41.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:40:03.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:28:39.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LibraryManagement.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T17:19:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookCopy.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BookCopy.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\BookCopy.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BookCopy.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\BookCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:14:38.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Reader.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\Reader.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\Reader.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:14:54.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookImport.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BookImport.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Domain\\Entities\\BookImport.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Domain\\Entities\\BookImport.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Domain\\Entities\\BookImport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:16:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\ImportService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Implementations\\ImportService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\ImportService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Implementations\\ImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:28:31.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\BorrowService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Implementations\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\BorrowService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Implementations\\BorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:28:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\ReaderService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Implementations\\ReaderService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\ReaderService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Implementations\\ReaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:28:15.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Implementations\\BookService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Implementations\\BookService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:28:04.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:26:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IImportService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Interfaces\\IImportService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IImportService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Interfaces\\IImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:26:14.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IBorrowService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Interfaces\\IBorrowService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IBorrowService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Interfaces\\IBorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:25:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IReaderService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Interfaces\\IReaderService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IReaderService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Interfaces\\IReaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:25:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:25:02.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\LibraryManagement.Services\\Class1.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:24:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

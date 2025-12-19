@@ -1,0 +1,264 @@
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmBooks.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmBorrow.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmImports.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmLogin.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmMain.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmReaders.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.GenerateResource.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfoInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfo.cs
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.AssemblyReference.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.exe
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.deps.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.runtimeconfig.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Data.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Domain.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Services.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Data.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Domain.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Services.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.6D0D6DFA.Up2Date
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.WinForms.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.genruntimeconfig.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.WinForms.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.exe
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.deps.json
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.runtimeconfig.json
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Humanizer.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Data.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Domain.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Services.dll
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Data.pdb
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Domain.pdb
+E:\Zalo\libary management\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.Services.pdb
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.AssemblyReference.cache
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmBooks.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmBorrow.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmImports.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmLogin.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmMain.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.Forms.FrmReaders.resources
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.GenerateResource.cache
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfoInputs.cache
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.AssemblyInfo.cs
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.csproj.CoreCompileInputs.cache
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.6D0D6DFA.Up2Date
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.dll
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.WinForms.dll
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.pdb
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.WinForms.genruntimeconfig.cache
+E:\Zalo\libary management\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.WinForms.dll
